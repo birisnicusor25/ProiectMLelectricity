@@ -12,3 +12,9 @@
 
 ## Link baza de date aleasa:
 -https://www.openml.org/search?type=data&sort=runs&status=active&id=151
+
+## Date folosite
+-„This data was collected from the Australian New South Wales Electricity Market.” pentru mentionarea pietei energiei electrice;
+-„dated from 7 May 1996 to 5 December 1998” idee folosita pentru evolutia in timp a pietei;
+-„Each example refers to a period of 30 minutes”
+„48 instances for each time period of one day” folosit pentru descrierea unui sistem dinamic cu date colectate in interval de timp regulat;
